@@ -1,0 +1,30 @@
+1679548086606	geckodriver	INFO	Listening on 127.0.0.1:54494
+1679548089689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THALLU~1\\AppData\\Local\\Temp\\rust_mozprofilepJEdhD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679548090036	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679548090043	Marionette	INFO	Listening on port 54503
+Read port: 54503
+WebDriver BiDi listening on ws://127.0.0.1:54495
+1679548090226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THALLU~1\\AppData\\Local\\Temp\\rust_mozprofilepJEdhD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54495/devtools/browser/d09631d6-9e0b-46fc-9531-4cc866b8c6a2
+JavaScript error: , line 0: uncaught exception: Object
+1679548098239	Marionette	INFO	Stopped listening on port 54503
+Dynamically enable window occlusion 1
+1679548224929	geckodriver	INFO	Listening on 127.0.0.1:54635
+1679548227975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54636" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THALLU~1\\AppData\\Local\\Temp\\rust_mozprofilejRASAl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679548228279	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679548228284	Marionette	INFO	Listening on port 54645
+Read port: 54645
+WebDriver BiDi listening on ws://127.0.0.1:54636
+1679548228464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THALLU~1\\AppData\\Local\\Temp\\rust_mozprofilejRASAl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54636/devtools/browser/6a358d56-489f-48d7-bf1c-3f92f8542444
+JavaScript error: , line 0: uncaught exception: Object
+1679548236396	Marionette	INFO	Stopped listening on port 54645
+Dynamically enable window occlusion 1
